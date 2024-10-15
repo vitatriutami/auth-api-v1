@@ -18,3 +18,4 @@ const config = {
     database: process.env.PGDATABASE,
   },
 };
+
